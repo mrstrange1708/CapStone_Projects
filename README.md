@@ -31,7 +31,7 @@ Capstone_Project/
 How to Use the Project
 	1.	Clone this repository using:
 
-git clone https://github.com/mrstrange1708/capstone-project.git
+git clone [https://github.com/mrstrange1708/capstone-project.git](https://github.com/mrstrange1708/CapStone_Projects.git)
 
 
 Future Improvements
